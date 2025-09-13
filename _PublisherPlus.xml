@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>.editorconfig</exclude>
+    <exclude>.git</exclude>
+    <exclude>.vs</exclude>
+    <exclude>Numbers\bin</exclude>
+    <exclude>Numbers\obj</exclude>
+  </Excluded>
+</Configuration>
